@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+        "name"              "ULXSayToStaff"
+        "version"           "1.0"
+        "author_name"       "The Realist"
+        "author_email"      ""
+        "info"              "Sends a message to all staff players."
+        "override"          "0"
+}
